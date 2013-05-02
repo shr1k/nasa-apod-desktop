@@ -81,7 +81,7 @@ NASA_APOD_SITE = 'http://apod.nasa.gov/apod/'
 IMAGE_SCROLL = True
 IMAGE_DURATION = 1200
 SEED_IMAGES = 10
-SHOW_DEBUG = False
+SHOW_DEBUG = True
 
 import glib
 import subprocess
